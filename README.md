@@ -2,7 +2,7 @@
 
 This repository is highly based on the [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) repository. 
 
-I try to use some diagrams to represent the structure of the prompts in the `Awesome ChatGPT Prompts; a prompt is divided into several parts: 
+I try to use some diagrams to represent the structure of the prompts in the [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). A prompt is divided into several parts: 
 
 - the role you want ChatGPT to act
 - the input you provide
